@@ -1,9 +1,10 @@
+![](https://img.shields.io/github/last-commit/harry-higgins-2614/harry-higgins-2614)
+
 ```
 console.log("Hello!")
 
-//Oh, right yeah. Real typing.
+// Oh, right yeah. Real typing.
 ```
-
 
 Sorry about that. Hi, I'm Harry 👋
 
