@@ -8,8 +8,9 @@ console.log("Hello!")
 
 Sorry about that. Hi, I'm Harry 👋
 
-👀 I love all things relating to: eCommerce, SEO, and whimsical Web Development 😎
-Mainly coding in: C#, Vue but picking up bits of react
+👀 I love all things relating to: Software Development, SEO, and e-commerce 😎
+
+Day to day I'm mainly coding in: C# and Vue, but I'm picking up bits of React in my spare time.
 
 
 📫 How to reach me: 
